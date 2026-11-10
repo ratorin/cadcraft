@@ -1507,3 +1507,395 @@
 	{count} more types	ほか {count} 種類
 	Multiple Insert	配列挿入
 	Xref	外部参照
+	Import and replace	読み込んで置き換え
+	Importing a file replaces your {n} aliases, and any changes not applied yet.	ファイルを読み込むと、現在の {n} 個の別名と、まだ適用していない変更が置き換えられます。
+	Keep my aliases	現在の別名を残す
+	Run ALIASEDIT with the file's contents using its text parameter.	ファイルの内容を text パラメータに指定して ALIASEDIT を実行してください。
+	Turned off, a right-click while a command runs does what Right-Click Customization sets for Command mode.	オフにすると、コマンド実行中の右クリックは［右クリックのカスタマイズ］のコマンド モードの設定どおりに動作します。
+	Type something to find	検索する文字列を入力してください
+	(1, 2, 4, 8, 16, 32, 64, 128, or 256)	(1、2、4、8、16、32、64、128、256 のいずれか)
+	<Offset>	<オフセット>
+	>> Expression	>> 式
+	Align block with object?	ブロックをオブジェクトに合わせますか?
+	Associate the hatch with the new boundary?	ハッチを新しい境界に関連付けますか?
+	Associative dimension priority	関連付け寸法の優先度
+	Base point	基点
+	Breakline extension distance	切断線の延長距離
+	Breakline symbol size	切断線記号のサイズ
+	Bring to front	最前面へ移動
+	Calculate rectangle dimensions based on	長方形の寸法の計算基準
+	Choose mode for selected object conversion	選択オブジェクトの変換モードを選択
+	Combine collinear objects that meet end to end	端点同士が接する同一線上のオブジェクトを結合
+	Combine collinear objects that partially overlap	部分的に重なる同一線上のオブジェクトを結合
+	Combine identical rows?	同じ内容の行をまとめますか?
+	Combine layer property changes into one undo step?	レイヤ プロパティの変更を 1 回の元に戻す操作にまとめますか?
+	Combine text into a single MTEXT?	文字を 1 つのマルチテキストにまとめますか?
+	Combine zooms and pans into one undo step?	ズームとパンを 1 回の元に戻す操作にまとめますか?
+	Constant?	一定にしますか?
+	Convert Lines and Arcs to polylines	線分と円弧をポリラインに変換
+	Create associative array	関連付け配列を作成
+	Delete old boundary(s)?	古い境界を削除しますか?
+	Drafting mode?	作図モードにしますか?
+	Edit attributes one at a time?	属性を 1 つずつ編集しますか?
+	Edit only attributes visible on screen?	画面に表示されている属性だけを編集しますか?
+	Edit path for which xref(s)	パスを編集する外部参照
+	Enter Trim mode option	トリム モードのオプションを入力
+	Enter UNDO Auto mode	UNDO の自動モードを入力
+	Enter X scale factor, specify opposite corner	X 方向の尺度係数を入力、またはもう一方のコーナーを指定
+	Enter Y scale factor	Y 方向の尺度係数を入力
+	Enter a boundary loop number to remove (starting at 1)	削除する境界ループの番号を入力 (1 から)
+	Enter a configuration option	環境設定のオプションを入力
+	Enter a default viewport visibility option	ビューポートの既定の表示オプションを入力
+	Enter a group description	グループの説明を入力
+	Enter a group name	グループ名を入力
+	Enter a group option	グループのオプションを入力
+	Enter a hatch option	ハッチのオプションを入力
+	Enter a loaded linetype name	読み込み済みの線種名を入力
+	Enter a name for the new plotter	新しいプロッタの名前を入力
+	Enter a new name for the group	グループの新しい名前を入力
+	Enter a plotter option	プロッタのオプションを入力
+	Enter a plotting preference	印刷の設定を入力
+	Enter a projection option	投影のオプションを入力
+	Enter a property to turn on or off	オン/オフを切り替えるプロパティを入力
+	Enter a scale factor (nX or nXP)	倍率を入力 (nX または nXP)
+	Enter a text edit mode option	文字編集モードのオプションを入力
+	Enter an UNDO control option	UNDO の制御オプションを入力
+	Enter an annotation option	注釈のオプションを入力
+	Enter an implied edge extension mode	暗黙のエッジ延長モードを入力
+	Enter an option [Add/Remove] <Add>	オプションを入力 [Add/Remove] <Add>
+	Enter an option to change	変更するオプションを入力
+	Enter array type	配列の種類を入力
+	Enter attribute tag	属性タグを入力
+	Enter attribute tag specification	属性タグの条件を入力
+	Enter attribute value specification	属性値の条件を入力
+	Enter attribute visibility setting	属性の表示設定を入力
+	Enter block name or select a block reference	ブロック名を入力、またはブロック参照を選択
+	Enter block name or select a block reference [?]	ブロック名を入力、またはブロック参照を選択 [?]
+	Enter block name specification	ブロック名の条件を入力
+	Enter block(s) to list	リストするブロックを入力
+	Enter choice, 1 to 5	1 から 5 の番号を入力
+	Enter clipping option	クリップのオプションを入力
+	Enter color name or number (1-255)	色の名前または番号を入力 (1-255)
+	Enter column type	段組みの種類を入力
+	Enter decimal places of accuracy (0 to 16)	小数点以下の精度を入力 (0 ～ 16)
+	Enter distance between rows or specify unit cell (---)	行の間隔を入力、または単位セルを指定 (---)
+	Enter file name	ファイル名を入力
+	Enter first angle constraint	1 つ目の角度拘束を入力
+	Enter first line of annotation text or	注釈文字の 1 行目を入力、または
+	Enter first tolerance value	1 つ目の公差値を入力
+	Enter fit tolerance	フィット許容差を入力
+	Enter fuzz distance	許容距離を入力
+	Enter group description	グループの説明を入力
+	Enter group name	グループ名を入力
+	Enter group name(s) to list	リストするグループ名を入力
+	Enter inspection rate	検査率を入力
+	Enter inspection shape	検査枠の形状を入力
+	Enter justification	位置合わせを入力
+	Enter knot parameterization	ノットのパラメータ化を入力
+	Enter label (press ENTER for none)	ラベルを入力 (なしの場合は ENTER)
+	Enter layer description	レイヤの説明を入力
+	Enter layer name	レイヤ名を入力
+	Enter layer name to make current	現在のレイヤにするレイヤ名を入力
+	Enter layer name(s) to change default viewport visibility	ビューポートの既定の表示を変更するレイヤ名を入力
+	Enter layer name(s) to list	リストするレイヤ名を入力
+	Enter layer option for offset objects	オフセットしたオブジェクトのレイヤオプションを入力
+	Enter layout name for copy	コピーのレイアウト名を入力
+	Enter layout name(s) to list	リストするレイアウト名を入力
+	Enter layout option	レイアウトのオプションを入力
+	Enter layout to make current	現在のレイアウトにするレイアウトを入力
+	Enter layout to rename	名前を変更するレイアウトを入力
+	Enter layout to save to template	テンプレートに保存するレイアウトを入力
+	Enter leader format option	引出線の形式オプションを入力
+	Enter line spacing factor or distance	行間の係数または距離を入力
+	Enter line spacing type	行間の種類を入力
+	Enter linetype(s) to load	読み込む線種を入力
+	Enter lineweight (0.0mm - 2.11mm)	線幅を入力 (0.0mm - 2.11mm)
+	Enter magnification or height	倍率または高さを入力
+	Enter maximum part height	部品の最大高さを入力
+	Enter mline editing option	マルチライン編集のオプションを入力
+	Enter mline style name or [?]	マルチライン スタイル名を入力、または [?]
+	Enter name for new layer (becomes the current layer)	新しいレイヤの名前を入力 (現在のレイヤになります)
+	Enter name for new scale	新しい尺度の名前を入力
+	Enter name for new viewport configuration	新しいビューポート構成の名前を入力
+	Enter name list for new layer(s)	新しいレイヤの名前の一覧を入力
+	Enter name of block to manage	管理するブロックの名前を入力
+	Enter name of block to sync	同期するブロックの名前を入力
+	Enter name of breakline symbol block (. for the built-in symbol)	切断線記号のブロック名を入力 (組込みの記号は .)
+	Enter name of drawing file to recover	修復する図面ファイルの名前を入力
+	Enter name of existing block	既存のブロックの名前を入力
+	Enter name of layout to copy	コピーするレイアウトの名前を入力
+	Enter name of layout to delete	削除するレイアウトの名前を入力
+	Enter name of linetype file	線種ファイルの名前を入力
+	Enter name of new layout	新しいレイアウトの名前を入力
+	Enter name of output file	出力ファイルの名前を入力
+	Enter name of scale to delete	削除する尺度の名前を入力
+	Enter name of script file	スクリプト ファイルの名前を入力
+	Enter name of viewport configuration to restore	復元するビューポート構成の名前を入力
+	Enter name(s) of new layers frozen in all viewports	すべてのビューポートでフリーズする新しいレイヤの名前を入力
+	Enter name(s) of viewport configurations to delete	削除するビューポート構成の名前を入力
+	Enter name(s) of viewport configurations to list	リストするビューポート構成の名前を入力
+	Enter name(s) to purge	パージする名前を入力
+	Enter named scale to add	追加する尺度の名前を入力
+	Enter named scale to delete	削除する尺度の名前を入力
+	Enter new attribute value	新しい属性値を入力
+	Enter new color	新しい色を入力
+	Enter new default value	新しい既定値を入力
+	Enter new dimension text	新しい寸法文字を入力
+	Enter new group name	新しいグループ名を入力
+	Enter new layer name	新しいレイヤ名を入力
+	Enter new layout name	新しいレイアウト名を入力
+	Enter new linetype name	新しい線種名を入力
+	Enter new linetype scale factor	新しい線種尺度を入力
+	Enter new lineweight	新しい線幅を入力
+	Enter new order	新しい順序を入力
+	Enter new prompt	新しいプロンプトを入力
+	Enter new string	新しい文字列を入力
+	Enter new tag	新しいタグを入力
+	Enter new text style	新しい文字スタイルを入力
+	Enter new value for CONSTRAINTINFER	CONSTRAINTINFER の新しい値を入力
+	Enter new value for PICKSTYLE	PICKSTYLE の新しい値を入力
+	Enter new value for THICKNESS	THICKNESS の新しい値を入力
+	Enter new value for XCLIPFRAME	XCLIPFRAME の新しい値を入力
+	Enter next line of annotation text	注釈文字の次の行を入力
+	Enter next line of text (empty line to finish)	文字の次の行を入力 (空行で終了)
+	Enter number of actions	操作の回数を入力
+	Enter number of columns (|||)	列数を入力 (|||)
+	Enter number of digits to right of decimal point (0 to 8)	小数点以下の桁数を入力 (0 ～ 8)
+	Enter number of fractional places for display of angles (0 to 8)	角度表示の小数点以下の桁数を入力 (0 ～ 8)
+	Enter number of items in array	配列の項目数を入力
+	Enter number of rows (---)	行数を入力 (---)
+	Enter object ordering option	オブジェクトの表示順序オプションを入力
+	Enter object type to rename	名前を変更するオブジェクトの種類を入力
+	Enter obliquing angle (press ENTER for none)	傾斜角度を入力 (なしの場合は ENTER)
+	Enter old group name	変更前のグループ名を入力
+	Enter old layer name	変更前のレイヤ名を入力
+	Enter option	オプションを入力
+	Enter option [Save/Discard reference changes] <Save>	オプションを入力 [Save/Discard reference changes] <Save>
+	Enter properties to match (SELECTSIMILARMODE bit code)	一致させるプロパティを入力 (SELECTSIMILARMODE のビット コード)
+	Enter property to change	変更するプロパティを入力
+	Enter scale ratio (paper units:drawing units)	尺度の比率を入力 (用紙の単位:作図単位)
+	Enter second angle constraint	2 つ目の角度拘束を入力
+	Enter second tolerance value	2 つ目の公差値を入力
+	Enter spline creation method	スプラインの作成方法を入力
+	Enter string to change	変更する文字列を入力
+	Enter style name	スタイル名を入力
+	Enter symbol type to bind	バインドするシンボルの種類を入力
+	Enter target layer name	対象のレイヤ名を入力
+	Enter template file name	テンプレート ファイルの名前を入力
+	Enter the distance between rows or specify unit cell (---)	行の間隔を入力、または単位セルを指定 (---)
+	Enter the drawing to compare with (an open drawing's name or a file path)	比較する図面を入力 (開いている図面の名前、またはファイル パス)
+	Enter the maximum points for leader line	引出線の最大点数を入力
+	Enter the name of the block to replace	置き換えるブロックの名前を入力
+	Enter the number of columns	列数を入力
+	Enter the number of columns (|||)	列数を入力 (|||)
+	Enter the number of items in the array	配列の項目数を入力
+	Enter the number of levels	レベル数を入力
+	Enter the number of operations to undo	元に戻す操作の回数を入力
+	Enter the number of rows	行数を入力
+	Enter the number of rows (---)	行数を入力 (---)
+	Enter the output	出力先を入力
+	Enter the paper name	用紙名を入力
+	Enter the paper width,height in mm	用紙の幅,高さを mm で入力
+	Enter the plotter to add a paper size to	用紙サイズを追加するプロッタを入力
+	Enter the plotter to delete	削除するプロッタを入力
+	Enter the type of array	配列の種類を入力
+	Enter tolerance location	公差の位置を入力
+	Enter transparency value	透明度の値を入力
+	Enter transparency value (0-90)	透明度の値を入力 (0-90)
+	Enter trim method	トリムの方法を入力
+	Enter type of dimension editing	寸法編集の種類を入力
+	Enter type of unused objects to purge	パージする未使用オブジェクトの種類を入力
+	Enter type of value modification	値の変更方法を入力
+	Enter value	値を入力
+	Enter variable name	変数名を入力
+	Enter view name to restore	復元するビュー名を入力
+	Enter view name to save	保存するビュー名を入力
+	Enter view name(s) to delete	削除するビュー名を入力
+	Enter view name(s) to list	リストするビュー名を入力
+	Enter viewport arrangement	ビューポートの配置を入力
+	Enter viewport configuration name	ビューポート構成の名前を入力
+	Enter what to pick	取得する対象を入力
+	Enter xref(s) to list	リストする外部参照を入力
+	Erase polyline?	ポリラインを消去しますか?
+	Erase source object after offsetting?	オフセット後に元のオブジェクトを消去しますか?
+	Erase source objects?	元のオブジェクトを消去しますか?
+	First point of mid	中点の 1 点目
+	First tracking point	最初のトラッキング点
+	Fix any errors detected?	検出されたエラーを修正しますか?
+	Get from the drawing or [Point/Distance/Angle/Intersection]	図面から取得、または [Point/Distance/Angle/Intersection]
+	Guide crosshairs along cloud path	雲マークのパスに沿って十字カーソルを動かす
+	Indicate dimension point to add	追加する寸法点を指示
+	Indicate dimension point to remove	削除する寸法点を指示
+	Internal error; press Enter to end the command	内部エラーです。Enter を押してコマンドを終了してください
+	Invisible?	非表示にしますか?
+	Island detection style	島の検出スタイル
+	Isometric plane?	等角平面は?
+	Keep associative objects	関連付けオブジェクトを保持
+	Lock the view of viewports?	ビューポートのビューをロックしますか?
+	Measure angles clockwise?	角度を時計回りに測定しますか?
+	New color	新しい色
+	Next point (Press ENTER to end tracking)	次の点 (ENTER でトラッキングを終了)
+	No mark: undo everything?	マークがありません。すべて元に戻しますか?
+	Number of objects to move	移動するオブジェクトの数
+	Object selected is not a polyline. Do you want to turn it into one?	選択したオブジェクトはポリラインではありません。ポリラインに変換しますか?
+	Optimize segments within polylines	ポリライン内のセグメントを最適化
+	Pick a table cell	テーブルのセルをクリック
+	Pick an internal point for the new boundary	新しい境界の内側の点をクリック
+	Pick internal point	内側の点をクリック
+	Red, Green, Blue	赤、緑、青
+	Red,Green,Blue	赤,緑,青
+	Reset the scale list to the defaults?	尺度リストを既定に戻しますか?
+	Rotate arrayed items?	配列する項目を回転させますか?
+	Rotate arrayed objects?	配列するオブジェクトを回転させますか?
+	Save changes to array?	配列への変更を保存しますか?
+	Save layer settings with views?	ビューと一緒にレイヤ設定を保存しますか?
+	Scale objects based on alignment points?	位置合わせ点に基づいてオブジェクトの尺度を変更しますか?
+	Second point of mid	中点の 2 点目
+	Select a block	ブロックを選択
+	Select a block reference	ブロック参照を選択
+	Select a content type	内容の種類を選択
+	Select a leader type	引出線の種類を選択
+	Select a multileader	マルチ引出線を選択
+	Select a table	テーブルを選択
+	Select a viewport	ビューポートを選択
+	Select an item in array to replace	置き換える配列の項目を選択
+	Select an object to copy	コピーするオブジェクトを選択
+	Select array	配列を選択
+	Select attributes	属性を選択
+	Select base dimension	基準寸法を選択
+	Select base point of replacement objects	置き換え用オブジェクトの基点を選択
+	Select block reference	ブロック参照を選択
+	Select boundary objects (Enter finds them)	境界オブジェクトを選択 (Enter で自動検出)
+	Select clipping object	クリップするオブジェクトを選択
+	Select closed boundary objects to add	追加する閉じた境界オブジェクトを選択
+	Select destination object(s)	コピー先のオブジェクトを選択
+	Select dimension	寸法を選択
+	Select dimension to add jog	折れ線を追加する寸法を選択
+	Select dimension to add/remove break	分割を追加/削除する寸法を選択
+	Select dimensions to space	間隔を調整する寸法を選択
+	Select first mline	1 本目のマルチラインを選択
+	Select grip to edit array	配列を編集するグリップを選択
+	Select group	グループを選択
+	Select hatch object	ハッチ オブジェクトを選択
+	Select item in array	配列の項目を選択
+	Select jog to remove	削除する折れ線を選択
+	Select mline	マルチラインを選択
+	Select multileader to align to or [Options]	位置合わせの基準にするマルチ引出線を選択、または [Options]
+	Select new datum point	新しいデータム点を選択
+	Select object on target layer	対象レイヤ上のオブジェクトを選択
+	Select object to break dimension	寸法を分割するオブジェクトを選択
+	Select object to clip viewport	ビューポートをクリップするオブジェクトを選択
+	Select object to count or [List/Spaces]	カウントするオブジェクトを選択、または [List/Spaces]
+	Select objects or	オブジェクトを選択、または
+	Select objects to add to the group	グループに追加するオブジェクトを選択
+	Select objects to erase or	消去するオブジェクトを選択、または
+	Select objects to remove from the group	グループから削除するオブジェクトを選択
+	Select reference objects	参照オブジェクトを選択
+	Select replacement objects	置き換え用オブジェクトを選択
+	Select second mline	2 本目のマルチラインを選択
+	Select source object	元のオブジェクトを選択
+	Select viewport to clip	クリップするビューポートを選択
+	Select viewports	ビューポートを選択
+	Sort text top-down?	文字を上から下の順に並べ替えますか?
+	Specify X scale factor	X 方向の尺度係数を指定
+	Specify Z scale factor or	Z 方向の尺度係数を指定、または
+	Specify a fit tolerance	フィット許容差を指定
+	Specify a point on the spline <exit>	スプライン上の点を指定 <終了>
+	Specify a precision	精度を指定
+	Specify angle for dimension text	寸法文字の角度を指定
+	Specify base point of objects	オブジェクトの基点を指定
+	Specify block attachment	ブロックのアタッチ位置を指定
+	Specify center location override	中心位置の上書きを指定
+	Specify center of isocircle	等角円の中心を指定
+	Specify center of view box	ビュー ボックスの中心を指定
+	Specify center point	中心点を指定
+	Specify chamfer angle from the first line	1 本目の線分からの面取り角度を指定
+	Specify chamfer length on the first line	1 本目の線分の面取り長さを指定
+	Specify change point	変更点を指定
+	Specify clipping boundary or select invert option	クリップ境界を指定、または反転オプションを選択
+	Specify collected multileader location or [Vertical/Horizontal/Wrap]	グループ化したマルチ引出線の位置を指定、または [Vertical/Horizontal/Wrap]
+	Specify column height	段の高さを指定
+	Specify control point <exit>	制御点を指定 <終了>
+	Specify diameter of isocircle	等角円の直径を指定
+	Specify dimension line position	寸法線の位置を指定
+	Specify direction	方向を指定
+	Specify direction (first point)	方向を指定 (1 点目)
+	Specify direction (second point)	方向を指定 (2 点目)
+	Specify direction of chord for arc	円弧の弦の方向を指定
+	Specify direction of vertex tangent	頂点の接線方向を指定
+	Specify displacement	移動距離を指定
+	Specify displacement base point	移動の基点を指定
+	Specify distance between columns (|||)	列の間隔を指定 (|||)
+	Specify end tangent	終点の接線を指定
+	Specify endpoint of the arc	円弧の終点を指定
+	Specify existing fit point <exit>	既存のフィット点を指定 <終了>
+	Specify first break point	1 点目の分割点を指定
+	Specify first corner of the unit cell	単位セルの最初のコーナーを指定
+	Specify first fence point	フェンスの 1 点目を指定
+	Specify first point for arc length dimension	円弧長寸法の 1 点目を指定
+	Specify first point for breakline	切断線の 1 点目を指定
+	Specify first point or [Options]	1 点目を指定、または [Options]
+	Specify fourth point or	4 点目を指定、または
+	Specify gutter width	段間の幅を指定
+	Specify included angle for arc	円弧の中心角を指定
+	Specify insertion point of the table	テーブルの挿入点を指定
+	Specify jog location	折れ線位置を指定
+	Specify jog location (or press ENTER)	折れ線位置を指定 (または ENTER)
+	Specify leader arrowhead location or [Remove leaders]	引出線の矢印の位置を指定、または [Remove leaders]
+	Specify leader start point	引出線の始点を指定
+	Specify leaders to remove	削除する引出線を指定
+	Specify leaders to remove or [Add leaders]	削除する引出線を指定、または [Add leaders]
+	Specify length of line	線分の長さを指定
+	Specify linetype name	線種名を指定
+	Specify location for break symbol	切断記号の位置を指定
+	Specify location of the text	文字の位置を指定
+	Specify new angle	新しい角度を指定
+	Specify new block insertion point	ブロックの新しい挿入点を指定
+	Specify new block rotation angle	ブロックの新しい回転角度を指定
+	Specify new circle radius	円の新しい半径を指定
+	Specify new elevation	新しい高度を指定
+	Specify new fit point <exit>	新しいフィット点を指定 <終了>
+	Specify new height	新しい高さを指定
+	Specify new length	新しい長さを指定
+	Specify new linetype scale	新しい線種尺度を指定
+	Specify new location	新しい位置を指定
+	Specify new location for dimension text	寸法文字の新しい位置を指定
+	Specify new point on spline <exit>	スプライン上の新しい点を指定 <終了>
+	Specify new rotation angle	新しい回転角度を指定
+	Specify new text insertion point	文字の新しい挿入点を指定
+	Specify new thickness	新しい厚さを指定
+	Specify next fence point	フェンスの次の点を指定
+	Specify number of columns	段数を指定
+	Specify other corner	もう一方のコーナーを指定
+	Specify quadrant	四半円を指定
+	Specify radius of isocircle	等角円の半径を指定
+	Specify reference angle	参照角度を指定
+	Specify reference length	参照長さを指定
+	Specify rotation around major axis	長軸まわりの回転を指定
+	Specify scale factor for XYZ axes	XYZ 軸の尺度係数を指定
+	Specify second point for arc length dimension	円弧長寸法の 2 点目を指定
+	Specify second point for breakline	切断線の 2 点目を指定
+	Specify second point on arc	円弧上の 2 点目を指定
+	Specify size of view box	ビュー ボックスのサイズを指定
+	Specify spacing	間隔を指定
+	Specify start tangent	始点の接線を指定
+	Specify temporary OTRACK point	一時 OTRACK 点を指定
+	Specify text height	文字の高さを指定
+	Specify the angle between items	項目間の角度を指定
+	Specify the angle to fill (+=ccw, -=cw)	複写する角度を指定 (+=反時計回り、-=時計回り)
+	Specify the distance between columns (|||)	列の間隔を指定 (|||)
+	Specify the incrementing elevation between rows	行ごとの高度の増分を指定
+	Specify the new angle	新しい角度を指定
+	Specify the pattern origin	パターンの原点を指定
+	Specify the reference angle	参照角度を指定
+	Specify the tangent direction for the start point of arc	円弧の始点の接線方向を指定
+	Specify third point	3 点目を指定
+	Specify tolerance	許容差を指定
+	Specify view twist angle	ビューのねじれ角度を指定
+	Specify width	幅を指定
+	Specify zoom scale factor	ズーム倍率を指定
+	Type of boundary object	境界オブジェクトの種類
+	Use landing	参照線を使用
+	Verify each name to be purged?	パージする名前を 1 つずつ確認しますか?
+	Where should the data go?	データの出力先はどこにしますか?
+	Word-wrap text?	文字を折り返しますか?

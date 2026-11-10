@@ -39,10 +39,14 @@ labels: **Zobrazení / Pohled**, **Kreslení / Kreslit**, **Kótování / Kóta*
 The translation is AI-assisted work by @Losminek, reviewed against Czech desktop and CAD UI
 conventions and an independent review pass; it has not yet been proofread by a native speaker.
 
-Japanese has **856 rows** in its first step: the collected menu, command-label, tool,
-object-snap and marked-UI strings (848 rows), the two single-form count templates, and six labels
-for the Options tabs that the UI reads dynamically. Command prompts, engine diagnostics and
-uncatalogued text remain English, so this is not yet the full union the older catalogs carry.
+Japanese has **1,895 rows**: 1,893 ordinary labels and the two single-form count templates. It
+covers the union of the existing catalogs (1,503 rows: menus, command labels, tools, object snaps,
+marked UI strings, Options, dialogs, tooltips and the drafting prompts the other catalogs carry)
+and 392 further strings no other catalog has yet, mostly engine command prompts found by scanning
+`Prompt::new` literals ("Enter layer name", "Select a table"). Prompts read "…を指定" for Specify,
+"…を入力" for Enter and "…を選択" for Select, and clickable keywords (`Top`, `Zero`, `Bottom`,
+`_tan to`, `nX`/`nXP`, bracketed option lists inside a prompt) keep the spelling the engine accepts.
+Engine diagnostics and uncatalogued text remain English.
 Terminology follows general Japanese desktop-CAD vocabulary rather than any product's wording:
 レイヤ (layer), 寸法 (dimension), 拘束 (constraint), スナップ (snap), ハッチ (hatch), 線種
 (linetype), 尺度 (scale) and 印刷 (plot). The translation is original, AI-assisted work written
